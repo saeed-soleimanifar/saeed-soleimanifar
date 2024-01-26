@@ -17,6 +17,6 @@ Passionate C/C++ and Qt Developer with a focus on driving software development i
 
 Skills: C++ / Qt / QML / Python / Javascript
 
-# 
+#
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soleimanifar/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soleimanifar//)  

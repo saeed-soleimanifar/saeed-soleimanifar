@@ -20,18 +20,3 @@ Skills: C++ / Qt / QML / Python / Javascript
 # 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soleimanifar//)  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Soleimanifar/)  
-
-<p  align = "center" with = "150px">
-To get in touch <a src="https://www.linkedin.com/in/soleimanifar"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25' style="margin-top:0px;"> </a>
-
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25' style="display: block; margin-lef:200px;">](https://www.linkedin.com/in/https://www.linkedin.com/in/soleimanifar//) </p>
-👉 
-**To get in touch:**  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25' style="display: block; margin-lef:200px;">](https://www.linkedin.com/in/https://www.linkedin.com/in/soleimanifar//)
-
-
-👉 
-To get in touch [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/soleimanifar/)
-
